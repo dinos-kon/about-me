@@ -7,3 +7,6 @@ Doing a lot of:
  * Architectural models for on-prem & the Azure cloud
  * Dragging apps into SPO against their will
  * enjoying the Greek sun in Athens on a daily basis
+
+# contact-me
+https://www.linkedin.com/in/dinos-konstantinou/
