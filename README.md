@@ -9,4 +9,4 @@ Doing a lot of:
  * enjoying the Greek sun in Athens on a daily basis
 
 # contact-me
-https://www.linkedin.com/in/dinos-konstantinou/
+[linked.in](https://www.linkedin.com/in/dinos-konstantinou/)
